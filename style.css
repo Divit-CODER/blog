@@ -32,3 +32,13 @@ input
 {
     border-radius: 25px;
 }
+.img_modal{
+    display:inline-block;
+    
+}
+.modal-body{
+    text-align:center;
+}
+.bill{
+    line-height: 2;
+}
